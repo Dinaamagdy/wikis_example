@@ -42,7 +42,7 @@ when no extension checks for .md
 when no account or repo then is current repo
 
 
-!!!include("home:networks")
+!!!include("threefoldtech:home:networks")
 
 ## include long
 
